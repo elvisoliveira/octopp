@@ -1,0 +1,6 @@
+{
+    "require":
+    {
+        "faceleg/html5lib-php": "dev-master"
+    }
+}
