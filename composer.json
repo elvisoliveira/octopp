@@ -1,6 +1,21 @@
 {
-    "require":
-    {
-        "faceleg/html5lib-php": "dev-master"
+    "name": "elvisoliveira/octopp",
+    "require": {
+        "querypath/querypath": "dev-master"
+    },
+    "homepage": "http://github.com/elvisoliveira/octopp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Elvis Oliveira",
+            "email": "elvis.olv@gmail.com",
+            "homepage": "http://www.elvisoliveira.com.br",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "OctoPP\\": "src/"
+        }
     }
 }
