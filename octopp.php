@@ -4,4 +4,4 @@ require_once 'vendor/autoload.php';
 
 use OctoPP\Parse;
 
-print Parse::getFragment();
+print Parse::getFirstPage();
