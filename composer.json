@@ -1,7 +1,8 @@
 {
     "name": "elvisoliveira/octopp",
     "require": {
-        "querypath/querypath": "dev-master"
+        "querypath/querypath": "dev-master",
+        "openlss/lib-array2xml": "dev-master"
     },
     "homepage": "http://github.com/elvisoliveira/octopp",
     "license": "MIT",
