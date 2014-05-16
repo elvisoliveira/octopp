@@ -8,5 +8,3 @@ use LSS\Array2XML;
 $xml = Array2XML::createXML('articles', Parse::getFirstPage());
 
 print $xml->saveXML();
-
-
